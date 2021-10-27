@@ -1,3 +1,4 @@
 # best-repo-ever
 #test trailHead
-#Make a note of which lines you change
+<<<<<<< HEAD
+#Make a change to the README.md file to the same line of the file.
